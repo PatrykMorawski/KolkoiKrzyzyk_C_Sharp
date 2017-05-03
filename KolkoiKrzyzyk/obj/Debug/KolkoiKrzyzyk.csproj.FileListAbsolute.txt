@@ -1,0 +1,50 @@
+C:\Users\Ankred\Desktop\Gry C#\Ping - Pong\KolkoiKrzyzyk\KolkoiKrzyzyk\bin\Debug\KolkoiKrzyzyk.exe.config
+C:\Users\Ankred\Desktop\Gry C#\Ping - Pong\KolkoiKrzyzyk\KolkoiKrzyzyk\bin\Debug\KolkoiKrzyzyk.exe
+C:\Users\Ankred\Desktop\Gry C#\Ping - Pong\KolkoiKrzyzyk\KolkoiKrzyzyk\bin\Debug\KolkoiKrzyzyk.pdb
+C:\Users\Ankred\Desktop\Gry C#\Ping - Pong\KolkoiKrzyzyk\KolkoiKrzyzyk\obj\Debug\KolkoiKrzyzyk.csprojResolveAssemblyReference.cache
+C:\Users\Ankred\Desktop\Gry C#\Ping - Pong\KolkoiKrzyzyk\KolkoiKrzyzyk\obj\Debug\KolkoiKrzyzyk.Form1.resources
+C:\Users\Ankred\Desktop\Gry C#\Ping - Pong\KolkoiKrzyzyk\KolkoiKrzyzyk\obj\Debug\KolkoiKrzyzyk.Properties.Resources.resources
+C:\Users\Ankred\Desktop\Gry C#\Ping - Pong\KolkoiKrzyzyk\KolkoiKrzyzyk\obj\Debug\KolkoiKrzyzyk.csproj.GenerateResource.Cache
+C:\Users\Ankred\Desktop\Gry C#\Ping - Pong\KolkoiKrzyzyk\KolkoiKrzyzyk\obj\Debug\KolkoiKrzyzyk.exe
+C:\Users\Ankred\Desktop\Gry C#\Ping - Pong\KolkoiKrzyzyk\KolkoiKrzyzyk\obj\Debug\KolkoiKrzyzyk.pdb
+C:\Users\Ankred\Desktop\Gry C#\Ping - Pong\KolkoiKrzyzyk\KolkoiKrzyzyk\obj\Debug\KolkoiKrzyzyk.Form2.resources
+C:\Users\Ankred\Desktop\Gry C#\KolkoiKrzyzyk\KolkoiKrzyzyk\bin\Debug\KolkoiKrzyzyk.exe.config
+C:\Users\Ankred\Desktop\Gry C#\KolkoiKrzyzyk\KolkoiKrzyzyk\obj\Debug\KolkoiKrzyzyk.exe
+C:\Users\Ankred\Desktop\Gry C#\KolkoiKrzyzyk\KolkoiKrzyzyk\obj\Debug\KolkoiKrzyzyk.pdb
+C:\Users\Ankred\Desktop\Gry C#\KolkoiKrzyzyk\KolkoiKrzyzyk\bin\Debug\KolkoiKrzyzyk.exe
+C:\Users\Ankred\Desktop\Gry C#\KolkoiKrzyzyk\KolkoiKrzyzyk\bin\Debug\KolkoiKrzyzyk.pdb
+C:\Users\Ankred\Desktop\Gry C#\KolkoiKrzyzyk\KolkoiKrzyzyk\obj\Debug\KolkoiKrzyzyk.csprojResolveAssemblyReference.cache
+C:\Users\Ankred\Desktop\Gry C#\KolkoiKrzyzyk\KolkoiKrzyzyk\obj\Debug\KolkoiKrzyzyk.Form1.resources
+C:\Users\Ankred\Desktop\Gry C#\KolkoiKrzyzyk\KolkoiKrzyzyk\obj\Debug\KolkoiKrzyzyk.Form2.resources
+C:\Users\Ankred\Desktop\Gry C#\KolkoiKrzyzyk\KolkoiKrzyzyk\obj\Debug\KolkoiKrzyzyk.Properties.Resources.resources
+C:\Users\Ankred\Desktop\Gry C#\KolkoiKrzyzyk\KolkoiKrzyzyk\obj\Debug\KolkoiKrzyzyk.csproj.GenerateResource.Cache
+C:\Users\Ankred\Desktop\Gry C# Java\KolkoiKrzyzyk\KolkoiKrzyzyk\bin\Debug\KolkoiKrzyzyk.exe.config
+C:\Users\Ankred\Desktop\Gry C# Java\KolkoiKrzyzyk\KolkoiKrzyzyk\obj\Debug\KolkoiKrzyzyk.exe
+C:\Users\Ankred\Desktop\Gry C# Java\KolkoiKrzyzyk\KolkoiKrzyzyk\obj\Debug\KolkoiKrzyzyk.pdb
+C:\Users\Ankred\Desktop\Gry C# Java\KolkoiKrzyzyk\KolkoiKrzyzyk\bin\Debug\KolkoiKrzyzyk.exe
+C:\Users\Ankred\Desktop\Gry C# Java\KolkoiKrzyzyk\KolkoiKrzyzyk\bin\Debug\KolkoiKrzyzyk.pdb
+C:\Users\Ankred\Desktop\Gry C# Java\KolkoiKrzyzyk\KolkoiKrzyzyk\obj\Debug\KolkoiKrzyzyk.csprojResolveAssemblyReference.cache
+C:\Users\Ankred\Desktop\Gry C# Java\KolkoiKrzyzyk\KolkoiKrzyzyk\obj\Debug\KolkoiKrzyzyk.Form1.resources
+C:\Users\Ankred\Desktop\Gry C# Java\KolkoiKrzyzyk\KolkoiKrzyzyk\obj\Debug\KolkoiKrzyzyk.Form2.resources
+C:\Users\Ankred\Desktop\Gry C# Java\KolkoiKrzyzyk\KolkoiKrzyzyk\obj\Debug\KolkoiKrzyzyk.Properties.Resources.resources
+C:\Users\Ankred\Desktop\Gry C# Java\KolkoiKrzyzyk\KolkoiKrzyzyk\obj\Debug\KolkoiKrzyzyk.csproj.GenerateResource.Cache
+E:\Kopia Zapasowa Programów\Gry\KolkoiKrzyzyk\KolkoiKrzyzyk\bin\Debug\KolkoiKrzyzyk.exe.config
+E:\Kopia Zapasowa Programów\Gry\KolkoiKrzyzyk\KolkoiKrzyzyk\obj\Debug\KolkoiKrzyzyk.exe
+E:\Kopia Zapasowa Programów\Gry\KolkoiKrzyzyk\KolkoiKrzyzyk\obj\Debug\KolkoiKrzyzyk.pdb
+E:\Kopia Zapasowa Programów\Gry\KolkoiKrzyzyk\KolkoiKrzyzyk\bin\Debug\KolkoiKrzyzyk.exe
+E:\Kopia Zapasowa Programów\Gry\KolkoiKrzyzyk\KolkoiKrzyzyk\bin\Debug\KolkoiKrzyzyk.pdb
+E:\Kopia Zapasowa Programów\Gry\KolkoiKrzyzyk\KolkoiKrzyzyk\obj\Debug\KolkoiKrzyzyk.csprojResolveAssemblyReference.cache
+E:\Kopia Zapasowa Programów\Gry\KolkoiKrzyzyk\KolkoiKrzyzyk\obj\Debug\KolkoiKrzyzyk.Form1.resources
+E:\Kopia Zapasowa Programów\Gry\KolkoiKrzyzyk\KolkoiKrzyzyk\obj\Debug\KolkoiKrzyzyk.Form2.resources
+E:\Kopia Zapasowa Programów\Gry\KolkoiKrzyzyk\KolkoiKrzyzyk\obj\Debug\KolkoiKrzyzyk.Properties.Resources.resources
+E:\Kopia Zapasowa Programów\Gry\KolkoiKrzyzyk\KolkoiKrzyzyk\obj\Debug\KolkoiKrzyzyk.csproj.GenerateResource.Cache
+E:\Kopia Zapasowa Programów\Gry\KolkoiKrzyzyk - C#\KolkoiKrzyzyk\bin\Debug\KolkoiKrzyzyk.exe.config
+E:\Kopia Zapasowa Programów\Gry\KolkoiKrzyzyk - C#\KolkoiKrzyzyk\obj\Debug\KolkoiKrzyzyk.exe
+E:\Kopia Zapasowa Programów\Gry\KolkoiKrzyzyk - C#\KolkoiKrzyzyk\obj\Debug\KolkoiKrzyzyk.pdb
+E:\Kopia Zapasowa Programów\Gry\KolkoiKrzyzyk - C#\KolkoiKrzyzyk\bin\Debug\KolkoiKrzyzyk.exe
+E:\Kopia Zapasowa Programów\Gry\KolkoiKrzyzyk - C#\KolkoiKrzyzyk\bin\Debug\KolkoiKrzyzyk.pdb
+E:\Kopia Zapasowa Programów\Gry\KolkoiKrzyzyk - C#\KolkoiKrzyzyk\obj\Debug\KolkoiKrzyzyk.csprojResolveAssemblyReference.cache
+E:\Kopia Zapasowa Programów\Gry\KolkoiKrzyzyk - C#\KolkoiKrzyzyk\obj\Debug\KolkoiKrzyzyk.Form1.resources
+E:\Kopia Zapasowa Programów\Gry\KolkoiKrzyzyk - C#\KolkoiKrzyzyk\obj\Debug\KolkoiKrzyzyk.Form2.resources
+E:\Kopia Zapasowa Programów\Gry\KolkoiKrzyzyk - C#\KolkoiKrzyzyk\obj\Debug\KolkoiKrzyzyk.Properties.Resources.resources
+E:\Kopia Zapasowa Programów\Gry\KolkoiKrzyzyk - C#\KolkoiKrzyzyk\obj\Debug\KolkoiKrzyzyk.csproj.GenerateResource.Cache
